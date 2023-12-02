@@ -1,0 +1,248 @@
+{
+    "image": "",
+    "name": "RAZIEH HAGHIGHI",
+    "position": "DIGITAL MARKETING SPECIALIST",
+    "main": [
+        {
+            "name": "experiences",
+            "items": [
+                {
+                    "title": "Digital Marketing Specialist",
+                    "name": "Saralon GmbH",
+                    "location": "Chemnitz, Germany",
+                    "start": "August 2021",
+                    "end": "present",
+                    "detailTitle": "",
+                    "details": [
+                        
+                        "landing page design for markeitng campaigns",
+                        "Updating website and all company's digotal platforms",
+                        "Revamped website and blog structure",
+                        "Created and implemented digital marketing dashboards for report optimization within HubSpot",
+                        "Email Marketing",
+                        "Provided CRM onboarding",
+                        "Boosted website social media visibility",
+                        "Orchestrated multi-channel digital campaigns",
+                        "Optimizing SEO and chacking structure of write ups",
+                        "Collaborated on website enhancements, improving Google Search ranking",
+                        "Paid campaign, optimizing performance", 
+                        "Retargeting campaigns",
+                        "Oversaw CRM, designing workflows and executing successful email campaigns",
+                        "Restructure company marketing concept",
+                        "Redesigning of a pivotal brochure to reflect the rebranding ",
+                        "Generating visual content",
+                        "Spearheaded product photography",
+                        "Developed expertise in printing processes"
+                        
+                    ]
+                },
+                {
+                    "title": "Junior Digital Marketer",
+                    "name": "Classino",
+                    "location": "Tehran, Iran",
+                    "start": "June 2018",
+                    "end": "July 2021",
+                    "detailTitle": "",
+                    "details": [
+                        "Get to know basic knowledge about digital marketing",
+                        "Initiated digital marketing efforts, focusing on data analysis and report generation, setting the foundation for effective marketing strategies.",
+                        "Run push notification, SMS, PPC, retargeting, influencer, banner, bumper ads and campaigns.",
+                        "Tracking each of the campaign’s performance and papering performance report each week based on the defined KPIs.",
+                        "Integrating google tag manager and google analytics, set up triggers and tags for each landing page. ",
+                        "Designing customer journey and optimizing it based on the enhance User Experience.",
+                        "Cooperating on the designing customer dashboard. And analyzing its heatmap with Hotjar.",
+                        "Cooperating on each campaign taglines and slangs defining and defining its KPIs. ",
+                        "Growth hacking with gamification ads."
+                    ]
+                },
+                {
+                    "title": "Junior Sales and Commercial ",
+                    "name": "HINA Energy",
+                    "location": "Tehran, Iran",
+                    "start": "May 2016",
+                    "end": "May 2018",
+                    "detailTitle": "",
+                    "details": [
+                        "Market Research and Analysis",
+                        "Developing a data base for suppliers",
+                        "Prospecting and Lead Generation",
+                        "Sales Support and Administration",
+                        "Assisting in Sales Presentations",
+                        "Customer Relationship Management (CRM)",
+                        "Supporting Sales Targets",
+                        "Client Communication"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Education",
+            "items": [
+                {
+                  "title": "M.Sc. Advanced Manufacturing",
+                  "name": "Technical University of Chemnitz",
+                  "location": "Chemnitz, Germany",
+                  "start": "October 2020",
+                  "end": "present",
+                  "profile": "Work design and sustainable management",
+                  "seminar_and_publication": [
+                    "Innovation management seminar: Value Creation Through Digital Technology on Circular Economy : Literature review",
+                    "Life Cycle Management mini thesis: Application of machine learning in life cycle assessment: A review",
+                    "Research method seminar: Machine learning approaches on digitalization of Life Cycle Assessment in Industry 4.0: A review"
+                  ],
+                  "Link": {
+                    "display": "Advanced Manufacturing Conference 2021",
+                    "url": "https://monarch.qucosa.de/api/qucosa%3A78230/attachment/ATT-0/"
+                  }
+                },
+                {
+                    "title": "M.Sc. Industrial Engineering - Engineering Management",
+                    "name": "Iran University of Scienece and Technology",
+                    "location": "Tehran, Iran",
+                    "start": "October 2016",
+                    "end": "August 2018"
+                
+                },
+                {
+                    "title": "B.Sc.Industrial Engineering",
+                    "name": "Technical University of Quchan",
+                    "location": "quchan, Iran",
+                    "start": "October 2010",
+                    "end": "September 2015"
+                
+                }
+            ]
+        },
+        {
+            "name": "languages",
+            "items" : [
+                {
+                    "title": "English",
+                    "name": "Fluent : C1"
+                },
+                {
+                    "title": "Persian",
+                    "name": "Native"
+                },
+                {
+                    "title": "German",
+                    "name": "Intermediate : B1"
+                }
+            ]
+        }
+    ],
+    "contact": {
+        "name": "Razieh Haghighi",
+        "linkedin": {
+            "display": "linkedin.com/in/razieh-haghighi/",
+            "url": "https://www.linkedin.com/in/razieh-haghighi-9464398b/"
+        },
+        "email": "razieh.haghighi.dm@gmail.com",
+        "mobile": "+49-15758183830",
+        "city": "09126 Chemnitz"
+    },
+    "displayScores": false,
+    "Digital Skills": [
+        {
+            "name": "Google Ads",
+            "scoreFrom10": "8"
+        },
+        {
+            "name": "Google Analyticst",
+            "scoreFrom10": "9"
+        },
+        {
+            "name": "Google Tag Manager",
+            "scoreFrom10": "7"
+        },
+        {
+            "name": "Google Studio",
+            "scoreFrom10": "7"
+        },
+        {
+            "name": "Google Search Console",
+            "scoreFrom10": "9"
+        },
+        {
+            "name": "Google Market Place",
+            "scoreFrom10": "6"
+        },
+        {
+            "name": "Google Trend",
+            "scoreFrom10": "8"
+        },
+        {
+            "name": "YouTube",
+            "scoreFrom10": "6"
+        },
+        {
+            "name": "Power BI",
+            "scoreFrom10": "6"
+        },
+        {
+            "name": "Adobe Photoshop",
+            "scoreFrom10": "5"
+        },
+        {
+            "name": "Corel",
+            "scoreFrom10": "7"
+        },
+        {
+            "name": "Canva",
+            "scoreFrom10": "8"
+        },
+        {
+            "name": "Mysql",
+            "scoreFrom10": "3"
+        },
+        {
+            "name": "Python",
+            "scoreFrom10": "5"
+        },
+        {
+            "name": "HTML",
+            "scoreFrom10": "4"
+        },
+        {
+            "name": "Figma",
+            "scoreFrom10": "4"
+        },
+        {
+            "name": "HubSpot",
+            "scoreFrom10": "9"
+        },
+        {
+            "name": "Meta ads",
+            "scoreFrom10": "5"
+        },
+        {
+            "name": "CSS",
+            "scoreFrom10": "4"
+        },
+        {
+            "name": "CMS",
+            "scoreFrom10": "4"
+        },
+        {
+            "name": "JIRA",
+            "scoreFrom10": "3"
+        },
+        {
+            "name": "Microsoft Project Manager",
+            "scoreFrom10": "7"
+        },
+        {
+            "name": "Excel",
+            "scoreFrom10": "8"
+        },
+
+        {
+            "name": "SEO SpyGlass",
+            "scoreFrom10": "5"
+        },
+        {
+            "name": "Screaming Frog SEO Spider",
+            "scoreFrom10": "5"
+        }
+    ]
+}
