@@ -1,25 +1,22 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <title>Your Website Title</title>
 </head>
 <body>
     <header>
         <h1>Welcome to Your Website</h1>
-    </header>
+
     <main>
         <!DOCTYPE html>
 <html lang="en">
-<head>
+
   <meta charset="UTF-8">
   <title>Typing Effect</title>
-</head>
 <body>
   <!DOCTYPE html>
   <html lang="en">
-  <head>
     <meta charset="UTF-8">
     <title>Typing Effect with CSS</title>
     <style>
@@ -59,7 +56,7 @@
                         "Provided CRM onboarding",
                         "Boosted website social media visibility",
                         "Orchestrated multi-channel digital campaigns",
-                        "Optimizing SEO and chacking structure of write ups",
+                        "Optimizing SEO and chacking structure of write-ups",
                         "Collaborated on website enhancements, improving Google Search ranking",
                         "Paid campaign, optimizing performance", 
                         "Retargeting campaigns",
@@ -282,7 +279,7 @@
         }
     ]
 }
-  </head>
+
   <body>
     <p id="typingEffect"></p>
   
