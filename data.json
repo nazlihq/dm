@@ -1,3 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Website Title</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Your Website</h1>
+    </header>
+    <main>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Typing Effect</title>
+</head>
+<body>
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Typing Effect with CSS</title>
+    <style>
+      /* CSS styles for the typing area */
+      #typingEffect {
+        font-family: Arial, sans-serif;
+        font-size: 18px;
+        color: #333;
+        padding: 10px;
+        border: 1px solid #ccc;
+        width: 80%;
+        margin: 20px auto;
+      }
+    </style>
 {
     "image": "",
     "name": "RAZIEH HAGHIGHI",
@@ -246,3 +282,34 @@
         }
     ]
 }
+  </head>
+  <body>
+    <p id="typingEffect"></p>
+  
+    <script>
+      const text = "This is an example text."; // Text to be typed
+      const typingArea = document.getElementById('typingEffect');
+  
+      let i = 0;
+      function typeWriter() {
+        if (i < text.length) {
+          typingArea.innerHTML += text.charAt(i);
+          i++;
+          setTimeout(typeWriter, 100); // Adjust the speed here (in milliseconds)
+        }
+      }
+  
+      typeWriter(); // Start the typing effect
+    </script>
+  </body>
+  </html>
+</body>
+</html>
+
+        <p>This is your homepage content.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
